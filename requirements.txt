@@ -1,0 +1,13 @@
+argparse
+requests
+bs4 
+pyfiglet
+tqdm
+time
+urllib
+pyfiglet
+termcolor
+uuid
+warnings 
+random
+datetime
