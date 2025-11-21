@@ -13,8 +13,8 @@ Magic Extractor is a Python tool used to automatically discover URLs, forms, inp
 
 ## installation
 ```
-git clone https://github.com/Elmagek404/magic-extractor
-cd magic-extractor
+git clone https://github.com/Elmagek404/Extractor
+cd Extractor
 pip install -e .
 magic-extractor -h
  ```
