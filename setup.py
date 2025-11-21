@@ -5,8 +5,9 @@ this_directory = Path(__file__).parent
 long_description = (this_directory / "README.md").read_text(encoding="utf-8")
 setup(
     name="magic-extractor",
-    version="1.0.1",
+    version="1.0.0",
     packages=find_packages(),
+    include_package_data=True,
     install_requires=[
         "requests",
         "beautifulsoup4",
